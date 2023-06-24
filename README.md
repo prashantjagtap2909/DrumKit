@@ -1,1 +1,6 @@
-### Drumkit
+### Drumkit 
+
+#### Technology used
+  - HTML
+
+
