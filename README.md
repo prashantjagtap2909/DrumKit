@@ -2,6 +2,7 @@
 
 #### Technology used
   - HTML
-  - CSS 
+  - CSS
+  - Javascript 
 
 
