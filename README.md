@@ -2,5 +2,6 @@
 
 #### Technology used
   - HTML
+  - CSS 
 
 
