@@ -1,4 +1,15 @@
-### Drumkit 
+
+
+# Drum Kit
+
+
+
+
+
+
+
+
+
 
 ### Project screenshots - 
 ![image](https://github.com/prashantjagtap2909/DrumKit/assets/93985255/7343f29c-616c-428c-b27b-7789eb4cb541)
@@ -8,6 +19,15 @@
 #### Technology used
   - HTML
   - CSS
-  - Javascript 
+  - Javascript
+
+## Authors
+
+- [Prashant](https://www.github.com/prashantjagtap2909)
+
+
+## Contributing
+
+Contributions are always welcome!
 
 
